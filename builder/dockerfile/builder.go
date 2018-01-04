@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/docker/distribution/reference"
 	apierrors "github.com/docker/docker/api/errors"
 	"github.com/docker/docker/api/types"
